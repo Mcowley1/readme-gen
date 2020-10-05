@@ -12,7 +12,9 @@
   ## Installation
   npm init and npm install inquirer
   ## Usage
-  To create a readme
+  > * Node.js
+  > * Javascript
+  > * Npm inquirer
   ## License
   This project uses ![license badge](https://img.shields.io/badge/license-MIT-brightgreen). You can get more information on licenses [here](https://choosealicense.com/).
   ## Contributing
